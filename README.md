@@ -3,8 +3,10 @@
 ## At a very high level, here are the questions and the findings of said questions: 
 Does CO2 emissions correlate with increased energy production?
  - Not explicitly
+ 
 Does increased energy output overall correlate with higher average temperatures?
  - There is a correlation
+ 
 Is the climate reported by news proportionally to the emissions of C02?
  - Not proportional to CO2
 
